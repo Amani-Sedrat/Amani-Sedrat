@@ -1,5 +1,7 @@
 #
-![GIF](https://tenor.com/view/eren-gif-19687510?utm_source=share-button&utm_medium=Social&utm_content=pinterest)
+<div align="center">
+  <img src="https://github.com/Amani-Sedrat/Amani-Sedrat/blob/main/yo.gif" alt="GIF">
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AmaniDesu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amani-sedrat-59781926b) 
