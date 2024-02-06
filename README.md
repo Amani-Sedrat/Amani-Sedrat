@@ -1,6 +1,6 @@
 #
 <div align="center">
-  <img src="https://github.com/Amani-Sedrat/Amani-Sedrat/commit/9b86f9be16a04577ba3ac835c0b4443f64a6427f" alt="GIF">
+  <img src="https://github.com/Amani-Sedrat/Amani-Sedrat/blob/main/18b60f76d27d99ba9f87e277918b3716.gif" alt="GIF">
 </div>
 
 ## 🌐 Socials:
